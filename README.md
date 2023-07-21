@@ -1,2 +1,2 @@
-# c-project
-c# project
+# 냉장고 재고관리 프로그램  
+
